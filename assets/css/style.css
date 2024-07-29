@@ -193,7 +193,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #F85C70;}
     background:url(../images/about/welcome_image.jpg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:500px;
+    height:600px;
 }
 .welcome-hero:before{
     position:absolute;
@@ -208,7 +208,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #F85C70;}
 /*.header-text-area*/
 .header-text h2 {
     color: #fff;
-    font-size: 54px;
+    font-size: 45px;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.5;
