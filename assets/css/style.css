@@ -193,14 +193,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #b30944d9;}
     background:url(../images/about/welcome-banner.jpg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:700px;
 }
 .welcome-hero:before{
     position:absolute;
     content: " ";
     top:0;
     left:0;
-    background:#2f323e;
+    background:#2f323e7d;
     width:100%;
     height:100%;
 }
