@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../imgs/header.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../imgs/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11570,7 +11570,7 @@ pre .code {
 .header-title {
   font-size: 2.4rem;
   font-weight: bold;
-  opacity: .8;
+  opacity: .85;
   color: #212529;
 }
 
