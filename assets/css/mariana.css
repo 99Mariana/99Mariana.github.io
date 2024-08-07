@@ -2788,25 +2788,31 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(249, 116, 133, 0.5);
+  /* box-shadow: 0 0 0 0.2rem rgba(249, 116, 133, 0.5); */
+  box-shadow: 0 0 0 0.2rem rgba(14, 164, 201, 0.5);
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #1bded7;
+  border-color: #1bded7;
+  /* background-color: #F85C70;
+  border-color: #F85C70; */
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #f62b45;
+  background-color: #17b5af;
+  border-color: #17b5af; }
+  /* background-color: #f62b45;
   border-color: #f51f3a;
-}
+} */
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(249, 116, 133, 0.5);
+  /* box-shadow: 0 0 0 0.2rem rgba(249, 116, 133, 0.5); */
+  box-shadow: 0 0 0 0.2rem rgba(14, 164, 201, 0.5);
 }
 
 .btn-secondary {
@@ -11384,7 +11390,8 @@ pre .code {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 180px;
+  /* max-width: 180px; */
+  max-width: 50px;
 }
 
 .social-icons .social-link {
