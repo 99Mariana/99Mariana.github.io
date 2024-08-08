@@ -591,6 +591,8 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+    /* add padding in a top */
+    padding-top: 15px;  
   margin-right: auto;
   margin-left: auto;
 }
