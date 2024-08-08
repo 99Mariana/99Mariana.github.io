@@ -64,7 +64,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: "Source Sans Pro", sans-serif;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -559,7 +559,6 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
-  padding-top: 5px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -588,16 +587,14 @@ pre code {
   }
 }
 
-/* .container-fluid {
+.container2 {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
-    /* add padding in a top
-    padding-top: 5px;  */
-  margin: 5% 5% 5% 5%; 
-  /* margin-right: auto;
-  margin-left: auto; */
-} */
+  padding-top: 10px
+  margin-right: auto;
+  margin-left: auto;
+}
 
 .row {
   display: -webkit-box;
