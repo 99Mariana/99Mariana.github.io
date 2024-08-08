@@ -559,6 +559,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 5px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -587,7 +588,7 @@ pre code {
   }
 }
 
-.container-fluid {
+/* .container-fluid {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -596,7 +597,7 @@ pre code {
   margin: 5% 5% 5% 5%; 
   /* margin-right: auto;
   margin-left: auto; */
-}
+} */
 
 .row {
   display: -webkit-box;
