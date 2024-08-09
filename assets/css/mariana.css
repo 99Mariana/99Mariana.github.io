@@ -11614,6 +11614,8 @@ pre .code {
 }
 
 .about-section {
+  margin-top: 10px;
+  margin-bottom: 10px;
   border-bottom: 1px solid #dee2e6;
 }
 
