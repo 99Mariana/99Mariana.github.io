@@ -11606,7 +11606,7 @@ pre .code {
 }
 
 .section {
-  padding: 80px 0;
+  padding: 60px 0;
 }
 
 .section.bg-custom-gray {
@@ -11614,8 +11614,9 @@ pre .code {
 }
 
 .about-section {
-  margin-top: 10px;
+  /* margin-top: 10px;
   margin-bottom: 10px;
+  padding: 60px; */
   border-bottom: 1px solid #dee2e6;
 }
 
