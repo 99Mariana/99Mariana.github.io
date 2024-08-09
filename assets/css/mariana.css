@@ -11614,21 +11614,21 @@ pre .code {
   background: rgba(242, 244, 247, 0.15);
 }
 
-.about-section {
+/* .about-section {
   /* margin-top: 10px;
   margin-bottom: 10px;
   padding: 60px; */
-  border-bottom: 1px solid #dee2e6;
-}
+  /* border-bottom: 1px solid #dee2e6;
+} */
 
-.about-section .about-card {
+/* .about-section .about-card {
   padding: 60px;
   border-right: 1px solid #dee2e6;
 }
 
 .about-section .about-card:last-child {
   border-right: none;
-}
+} */ 
 
 .contact {
   position: relative;
