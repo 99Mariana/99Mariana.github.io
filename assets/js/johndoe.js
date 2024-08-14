@@ -149,17 +149,17 @@ function initMap() {
     });
 }
 
-function toggleReadMore() {
-  var moreContent = document.querySelector('.more-content');
-  var dots = document.querySelector('.dots');
-  var btn = document.querySelector('.read-more-btn');
+// function toggleReadMore() {
+//   var moreContent = document.querySelector('.more-content');
+//   var dots = document.querySelector('.dots');
+//   var btn = document.querySelector('.read-more-btn');
   
-  if (moreContent.style.display === 'none') {
-      moreContent.style.display = 'inline';
-      dots.style.display = 'none';
-      btn.textContent = 'Read Less';
-  } else {
-      moreContent.style.display = 'none';
-      dots.style.display = 'inline';
-      btn.textContent = 'Read More';
-  }
+//   if (moreContent.style.display === 'none') {
+//       moreContent.style.display = 'inline';
+//       dots.style.display = 'none';
+//       btn.textContent = 'Read Less';
+//   } else {
+//       moreContent.style.display = 'none';
+//       dots.style.display = 'inline';
+//       btn.textContent = 'Read More';
+//   }
