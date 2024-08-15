@@ -523,8 +523,8 @@ pre code {
 }
 
 .career{
-  background-image: -webkit-linear-gradient(bottom, rgba(8, 11, 107, 0.5), rgba(8, 11, 107, 0.5)), url(../imgs/career.jpg);
-  background-image: linear-gradient(to top, rgba(8, 11, 107, 0.5), rgba(8, 11, 107, 0.5)), url(../imgs/career.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/career.jpg);
+  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/career.jpg);
 }
 
 @media (min-width: 576px) {
