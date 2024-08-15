@@ -511,8 +511,7 @@ pre code {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  text-align: center;
-  /* color: #fff; */
+  color: #fff;
 }
 
 .container_title .subtitle {
