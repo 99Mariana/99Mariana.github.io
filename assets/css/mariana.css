@@ -518,6 +518,7 @@ pre code {
   font-weight: 200;
   font-size: calc(20px + (45 - 20) * ((100vw - 300px) / (1600 - 300)));
   text-align: center;
+  margin-top: 25px;
 }
 
 @media (min-width: 576px) {
