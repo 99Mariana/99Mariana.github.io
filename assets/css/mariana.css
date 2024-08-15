@@ -503,8 +503,8 @@ pre code {
 
 .container_title {
   width: 100%;
-  height: 20vh;
-  min-height: 100px;
+  height: 30vh;
+  min-height: 150px;
   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/career.jpg);
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/career.jpg);
   background-size: cover;
@@ -518,7 +518,7 @@ pre code {
   font-weight: 200;
   font-size: calc(20px + (45 - 20) * ((100vw - 300px) / (1600 - 300)));
   text-align: center;
-  margin-top: 25px;
+  padding-top: 15%;
 }
 
 @media (min-width: 576px) {
