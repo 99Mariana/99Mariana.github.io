@@ -515,6 +515,11 @@ pre code {
   /* color: #fff; */
 }
 
+.container_title .subtitle {
+  font-weight: 200;
+  font-size: calc(20px + (45 - 20) * ((100vw - 300px) / (1600 - 300)));
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
