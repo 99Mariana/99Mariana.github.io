@@ -522,7 +522,7 @@ pre code {
   top: 40%;
 }
 
-.container_title .career{
+.career{
   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/career.jpg);
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/career.jpg);
 }
