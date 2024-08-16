@@ -11150,8 +11150,8 @@ p, ul {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
           flex-basis: 0;
-  display: block;
-  color: #212529;
+  display: inline;
+  color: #444;
   font-size: calc(12px + (14 - 12) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 500;
   opacity: .8;
