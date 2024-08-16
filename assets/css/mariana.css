@@ -11136,6 +11136,7 @@ p, ul {
   padding-bottom: 4px;
   margin: 0 auto 20px;
   max-width: 600px;
+  height: 20px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
