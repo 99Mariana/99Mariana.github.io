@@ -11251,9 +11251,7 @@ p, ul {
 }
 
 .blog-card .img-holder {
-  /* min-width: 250px; */
-  /* max-width: 250px; */
-  padding: 30px 15px 30px 15px;
+  padding: 40px 20px 30px 20px;
   width: 20%;
   
 }
@@ -11263,7 +11261,6 @@ p, ul {
   /* height: 100%; */
   -o-object-fit: cover;
      object-fit: cover;
-     /* padding: 30px 20px 30px 30px; */
 }
 
 .blog-card .content-holder {
