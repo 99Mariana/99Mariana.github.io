@@ -11257,8 +11257,8 @@ p, ul {
 }
 
 .blog-card .date-holder {
-  padding: 40px 5px 30px 5px;
-  width: 10%;
+  padding: 50px 5px 30px 0px;
+  width: 15%;
 }
 
 .blog-card .img-holder img {
