@@ -11139,7 +11139,7 @@ p, ul {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: inline-flex;
+  display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
@@ -11150,7 +11150,7 @@ p, ul {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
           flex-basis: 0;
-  display: inline;
+  display: flex;
   color: #444;
   font-size: calc(12px + (14 - 12) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 500;
