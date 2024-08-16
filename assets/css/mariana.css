@@ -123,6 +123,7 @@ dd {
 
   /* citações */
 blockquote {
+  font-style: italic;
   margin: 0 0 1rem; }
 
 b, strong {
