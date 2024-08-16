@@ -11258,7 +11258,7 @@ p, ul {
 
 .blog-card .date-holder {
   margin-top: 30px;
-  font-size: calc(12px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(12px + (17 - 12) * ((100vw - 300px) / (1600 - 300)));
   text-align: center;
 }
 
