@@ -11242,7 +11242,7 @@ p, ul {
   display: -ms-flexbox;
   display: flex;
   text-align: left;
-  border: 1px solid #dee2e6;
+  border: 1.5px solid #dee2e6;
   margin-bottom: 30px;
   overflow: hidden;
   margin: 0 0px 30px;
@@ -11576,7 +11576,7 @@ pre .code {
 
 .section {
   padding: 60px 0;
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1.5px solid #dee2e6;
 }
 
 .section.bg-custom-gray {
