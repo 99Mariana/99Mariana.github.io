@@ -531,6 +531,11 @@ pre code {
   background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/hobbies.jpg);
 }
 
+.skills{
+  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.jpg);
+  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.jpg);
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
