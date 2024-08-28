@@ -455,7 +455,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #FC8BC0;
+  color: #1ac7c1;
   word-break: break-word;
 }
 
@@ -11181,7 +11181,7 @@ p, ul {
 
 .portfolio .filters a.active {
   opacity: 1;
-  background: #17a6a1;
+  background: #1ac7c1;
   color: #fff;
 }
 
