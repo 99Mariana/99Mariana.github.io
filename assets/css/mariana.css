@@ -11279,8 +11279,9 @@ p, ul {
 }
 
 .price-card .img-holder {
-  padding: 40px 25px 30px 25px;
-  width: 15%;
+  padding: 20px;
+  width: 50%;
+  -o-object-position: center;
 }
 
 .blog-card .date-holder {
