@@ -11158,6 +11158,7 @@ p, ul {
 
 .portfolio .descripcion {
   border-radius: 0;
+  border: 2px solid #dee2e6;
   padding-bottom: 2px;
   margin: 0 auto 20px;
   max-width: 600px;
