@@ -11643,6 +11643,11 @@ pre .code {
   border-bottom: 1.5px solid #dee2e6;
 }
 
+.noborder {
+  /* padding: 60px 0; */
+  border-bottom: 0px solid #dee2e6;
+}
+
 .section.bg-custom-gray {
   background: rgba(242, 244, 247, 0.15);
 }
