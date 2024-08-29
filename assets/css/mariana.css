@@ -11297,7 +11297,8 @@ p, ul {
 }
 
 .price-card .img-holder img {
-  width: 100%;
+  width: calc(40px + (60 - 40) * ((100vw - 300px) / (1600 - 300)));
+  margin-left: 20px;
   -o-object-fit: cover;
      object-fit: cover;
 }
