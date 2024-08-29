@@ -11279,9 +11279,9 @@ p, ul {
 }
 
 .price-card .img-holder {
-  padding: 20px;
+  padding: 10px;
   width: 50%;
-  -o-object-position: center;
+  margin-left: 20%;
 }
 
 .blog-card .date-holder {
@@ -11291,14 +11291,13 @@ p, ul {
 }
 
 .blog-card .img-holder img {
-  width: 100%;
+  width: calc(80px +(200 - 80)*((100vw - 300px) /(1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
 }
 
 .price-card .img-holder img {
-  width: calc(40px + (60 - 40) * ((100vw - 300px) / (1600 - 300)));
-  margin-left: 20px;
+  width: calc(80px +(200 - 80)*((100vw - 300px) /(1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
 }
