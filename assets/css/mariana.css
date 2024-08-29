@@ -1791,6 +1791,7 @@ pre code {
   margin-bottom: 1rem;
   color: #212529;
   border-collapse: collapse;
+  border-radius: 2PX;
 }
 
 /* .table th,
@@ -1816,8 +1817,10 @@ th, td {
 }
 
 th {
-  background-color: #212529;
+  color: rgba(225, 225, 225, 0.95);
+  background-color: rgba(5, 21, 69, 0.8);
   text-align: center;
+  WIDTH: 20%;
 }
 
 .table tbody + tbody {
@@ -11079,7 +11082,7 @@ p, ul {
 
 .card .card-body {
   font-size: 14px;
-  color: #6c757d;
+  /* color: #6c757d; */
 }
 
 .price-card {
