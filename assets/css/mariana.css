@@ -1811,14 +1811,15 @@ pre code {
   border-collapse: collapse;
 } */
 th, td {
-  border: 1px solid #212529;
+  border: 2px solid #dee2e6;
   padding: 8px;
-  text-align: left;
+  text-align: center;
 }
 
 th {
-  color: rgba(225, 225, 225, 0.95);
-  background-color: rgba(5, 21, 69, 0.8);
+  color: rgba(225, 225, 225, 1);
+  /* background-color: rgba(5, 21, 69, 0.8); */
+  background-color: rgba(14, 164, 201, 0.1);
   text-align: center;
   WIDTH: 20%;
 }
@@ -11317,7 +11318,7 @@ p, ul {
 }
 
 .price-card .img-holder img {
-  width: calc(60px + (180 - 60) * ((100vw - 300px) / (1600 - 300)));
+  width: calc(60px + (150 - 60) * ((100vw - 300px) / (1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
 }
