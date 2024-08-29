@@ -11291,13 +11291,13 @@ p, ul {
 }
 
 .blog-card .img-holder img {
-  width: calc(80px + (200 - 80) * ((100vw - 300px) / (1600 - 300)));
+  width: calc(60px + (180 - 60) * ((100vw - 300px) / (1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
 }
 
 .price-card .img-holder img {
-  width: calc(80px +(200 - 80)*((100vw - 300px) /(1600 - 300)));
+  width: calc(60px + (180 - 60) * ((100vw - 300px) / (1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
 }
