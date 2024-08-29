@@ -2186,7 +2186,7 @@ th {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #fdd6db;
+  border-color: #9febef;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.25);
 }
@@ -4022,7 +4022,7 @@ input[type="button"].btn-block {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #fdd6db;
+  border-color: #9febef;
 }
 
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
@@ -4168,7 +4168,7 @@ input[type="button"].btn-block {
 }
 
 .custom-select:focus {
-  border-color: #fdd6db;
+  border-color: #9febef;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.25);
 }
@@ -4227,7 +4227,7 @@ input[type="button"].btn-block {
 }
 
 .custom-file-input:focus ~ .custom-file-label {
-  border-color: #fdd6db;
+  border-color: #9febef;
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.25);
 }
 
