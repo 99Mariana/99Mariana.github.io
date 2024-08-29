@@ -11419,7 +11419,7 @@ pre .code {
       -ms-flex-pack: justify;
           justify-content: space-between;
   /* max-width: 180px; */
-  max-width: 90px;
+  max-width: 100px;
 }
 
 .social-icons .social-link {
@@ -11711,7 +11711,7 @@ pre .code {
 .contact .contact-info-card {
   padding: 35px;
   background: #fff;
-  min-height: 500px;
+  min-height: 450px;
 }
 
 .contact .contact-info-card {
