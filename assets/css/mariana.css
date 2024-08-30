@@ -523,23 +523,23 @@ pre code {
 }
 
 .career{
-  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/career.jpg);
-  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/career.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/career.jpg);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/career.jpg);
 }
 
 .hobbies{
-  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/hobbies.jpg);
-  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/hobbies.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/hobbies.jpg);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/hobbies.jpg);
 }
 
 .skills{
-  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.png);
-  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/skills.png);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/skills.png);
 }
 
 .awards{
-  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.1), rgba(5, 21, 69, 0.1)), url(../imgs/awards.gif);
-  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.1), rgba(5, 21, 69, 0.1)), url(../imgs/awards.gif);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/awards.gif);
+  background-image: linear-gradient(to top, rgbargba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/awards.gif);
   background-size: cover;
 }
 
@@ -549,8 +549,8 @@ pre code {
 
 
 .network{
-  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/network.png);
-  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/network.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/network.png);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/network.png);
 }
 
 @media (min-width: 576px) {
@@ -7230,7 +7230,7 @@ button.bg-light:focus {
 
 .bg-dark {
   /* background-color: #343a40 !important; */
-  background-color: #2b2f44 !important;
+  background-color: #rgba(29, 36, 42, 1) !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -11554,15 +11554,15 @@ pre .code {
 }
 
 .footer {
-  background: #2b2f44;
+  background: #rgba(29, 36, 42, 1);
 }
 
 .header {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/header.jpg);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11655,7 +11655,7 @@ pre .code {
 }
 
 .section {
-  padding: 60px 0;
+  padding: 40px 0;
   border-bottom: 1.5px solid #dee2e6;
 }
 
