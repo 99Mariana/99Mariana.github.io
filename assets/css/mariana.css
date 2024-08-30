@@ -537,6 +537,11 @@ pre code {
   background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.png);
 }
 
+.languages{
+  margin-bottom: 0.5px;
+}
+
+
 .network{
   background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/network.png);
   background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/network.png);
