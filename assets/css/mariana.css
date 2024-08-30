@@ -11316,14 +11316,15 @@ p, ul {
 
 
 .blog-card .date-holder {
-  margin-top: 30px;
-  margin-left: 15%;
+  /* margin-top: 30px;
+  margin-left: 15%; */
   font-size: calc(12px + (16 - 12) * ((100vw - 300px) / (1600 - 300)));
-  /* text-align: center; */
+  text-align: center;
 }
 
 .blog-card .img-holder img {
   width: calc(60px + (150 - 60) * ((100vw - 300px) / (1600 - 300)));
+  margin-bottom: 5px;
   -o-object-fit: cover;
      object-fit: cover;
 }
@@ -11341,7 +11342,6 @@ p, ul {
 
 .blog-card .content-holder .title {
   font-weight: 500;
-  /* font-size: 25px; */
   opacity: .8;
 }
 
