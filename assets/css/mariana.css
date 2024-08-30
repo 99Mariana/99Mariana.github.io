@@ -540,6 +540,7 @@ pre code {
 .awards{
   background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/awards.gif);
   background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/awards.gif);
+  background-size: cover;
 }
 
 .languages{
