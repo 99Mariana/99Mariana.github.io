@@ -321,7 +321,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: calc(23px +(35 - 23)*((100vw - 300px) /(1600 - 300)));
+  font-size: calc(20px + (35 - 20) * ((100vw - 300px) / (1600 - 300)));
 }
 
 h3, .h3 {
@@ -535,6 +535,11 @@ pre code {
 .skills{
   background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.png);
   background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/skills.png);
+}
+
+.awards{
+  background-image: -webkit-linear-gradient(bottom, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/awards.gif);
+  background-image: linear-gradient(to top, rgba(5, 21, 69, 0.5), rgba(5, 21, 69, 0.5)), url(../imgs/awards);
 }
 
 .languages{
