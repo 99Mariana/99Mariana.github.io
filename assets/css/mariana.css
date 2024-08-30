@@ -539,7 +539,7 @@ pre code {
 
 .awards{
   background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/awards.gif);
-  background-image: linear-gradient(to top, rgbargba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/awards.gif);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/awards.gif);
   background-size: cover;
 }
 
@@ -11554,15 +11554,15 @@ pre .code {
 }
 
 .footer {
-  background: #rgba(29, 36, 42, 1);
+  background: rgba(29, 36, 42, 1);
 }
 
 .header {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.2), rgba(29, 36, 42, 0.2)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/header.jpg);
+  background-image: linear-gradient(to top, rgba(29, 36, 42, 0.5), rgba(29, 36, 42, 0.5)), url(../imgs/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
