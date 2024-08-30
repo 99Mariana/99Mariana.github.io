@@ -7230,7 +7230,7 @@ button.bg-light:focus {
 
 .bg-dark {
   /* background-color: #343a40 !important; */
-  background-color: #rgba(29, 36, 42, 1) !important;
+  background-color: rgba(29, 36, 42, 1) !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -11657,6 +11657,10 @@ pre .code {
 .section {
   padding: 40px 0;
   border-bottom: 1.5px solid #dee2e6;
+}
+
+.files {
+  padding: 60px 0;
 }
 
 .noborder {
