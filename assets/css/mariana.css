@@ -11672,7 +11672,7 @@ pre .code {
 }
 
 .noborder {
-  /* padding: 60px 0; */
+  padding: 60px 0;
   border-bottom: 0px solid #dee2e6;
 }
 
