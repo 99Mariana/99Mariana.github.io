@@ -11447,6 +11447,7 @@ pre .code {
 
 .footer .social-icons .social-link {
   font-size: 23px;
+  align-items: center;
   /* padding-left: 50%; */
 }
 
@@ -11579,7 +11580,7 @@ pre .code {
 
 .footer {
   background: rgba(29, 36, 42, 1);
-  padding: 60px 0;
+  /* padding: 60px 0; */
   text-align:center;
 }
 
