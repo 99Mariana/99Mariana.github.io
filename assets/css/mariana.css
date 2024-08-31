@@ -11437,7 +11437,6 @@ pre .code {
   -webkit-justify-content: space-between;
       -ms-flex-pack: center;
           justify-content: space-between;
-  /* max-width: 180px; */
   max-width: 100px;
 }
 
@@ -11448,7 +11447,7 @@ pre .code {
 .footer .social-icons .social-link {
   font-size: 23px;
   align-items: center;
-  /* padding-left: 50%; */
+  display:flex;
 }
 
 .footer .social-icons{
