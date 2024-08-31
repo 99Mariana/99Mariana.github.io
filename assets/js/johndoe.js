@@ -172,17 +172,16 @@ function initMap() {
     });
 }
 
-// function toggleReadMore() {
-//   var moreContent = document.querySelector('.more-content');
-//   var dots = document.querySelector('.dots');
-//   var btn = document.querySelector('.read-more-btn');
-  
-//   if (moreContent.style.display === 'none') {
-//       moreContent.style.display = 'inline';
-//       dots.style.display = 'none';
-//       btn.textContent = 'Read Less';
-//   } else {
-//       moreContent.style.display = 'none';
-//       dots.style.display = 'inline';
-//       btn.textContent = 'Read More';
-//   }
+
+function toggleReadMore() {
+  const moreContent = document.querySelector('.more-content');
+  const readMore = document.querySelector('.read-more');
+
+  if (moreContent.style.display === 'none') {
+      moreContent.style.display = 'inline';
+      readMore.textContent = 'Read less';
+  } else {
+      moreContent.style.display = 'none';
+      readMore.textContent = 'Read more';
+  }
+}

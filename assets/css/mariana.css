@@ -11391,6 +11391,11 @@ p, ul {
   top: 1px;
 }
 
+.more-content {
+  display: none; /* Hidden by default */
+}
+
+
 @media (max-width: 991.98px) {
   .blog-card {
     -webkit-box-orient: vertical;
