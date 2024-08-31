@@ -11321,9 +11321,9 @@ p, ul {
 
 .price-card .img-holder {
   /* padding: 10px; */
-  width: 50%;
-  margin-left: 25%;
-  margin-bottom: 5px;
+  width: 100%;
+  /* margin-left: 25%;
+  margin-bottom: 5px; */
 }
 
 
@@ -11345,6 +11345,9 @@ p, ul {
   width: calc(100px + (140 - 100) * ((100vw - 300px) / (1600 - 300)));
   -o-object-fit: cover;
      object-fit: cover;
+     margin: 10px 0;
+     left: 30%;
+     position: relative;
 }
 
 .blog-card .content-holder {
