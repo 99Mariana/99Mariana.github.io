@@ -11600,7 +11600,7 @@ pre .code {
 }
 
 .header .header-content .header-mono {
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   font-weight: 500;
   font-size: calc(12px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
   margin-bottom: 40px;
