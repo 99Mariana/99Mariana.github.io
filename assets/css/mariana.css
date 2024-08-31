@@ -11379,14 +11379,21 @@ p, ul {
   font-size: 14px;
 }
 
-.blog-card .content-holder .read-more {
+/* .blog-card .content-holder read-more{
   text-decoration: none;
   margin-top: 20px;
   display: block;
   font-size: 14px;
+} */
+
+.read-more{
+  margin-top: 20px;
   color: #1ac7c1;
   cursor: pointer;
-  text-decoration: underline;
+}
+
+.read-more:hover {
+  color: #17a6a1; 
 }
 
 .blog-card .content-holder .read-more i {

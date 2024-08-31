@@ -179,9 +179,9 @@ function toggleReadMore() {
 
   if (moreContent.style.display === 'none') {
       moreContent.style.display = 'inline';
-      readMore.textContent = 'Read less';
+      readMore.textContent = 'Read less <<';
   } else {
       moreContent.style.display = 'none';
-      readMore.textContent = 'Read more';
+      readMore.textContent = 'Read more >>';
   }
 }
