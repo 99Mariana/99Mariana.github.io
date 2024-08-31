@@ -11439,7 +11439,7 @@ pre .code {
 }
 
 .social-icons .social-link {
-  font-size: 18px;
+  font-size: 23px;
 }
 
 .social-icons .social-link:hover {
@@ -11555,6 +11555,8 @@ pre .code {
 
 .footer {
   background: rgba(29, 36, 42, 1);
+  padding: 60px 0;
+  text-align:center;
 }
 
 .header {
@@ -11740,6 +11742,8 @@ pre .code {
 
 .contact .contact-title {
   margin-bottom: 30px;
+  color: #fff;
+  text-align: center;
 }
 
 .contact .contact-title::after {
