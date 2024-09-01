@@ -174,15 +174,15 @@ function initMap() {
 
 
 
-  function toggleReadMore(link) {
-    const moreContent = link.previousElementSibling;
+function toggleReadMore(link) {
+  const moreContent = link.previousElementSibling;
 
-    // Check if the content is hidden or visible
-    if (moreContent.style.display === 'none' || moreContent.style.display === '') {
-        moreContent.style.display = 'inline'; // Show the content
-        link.textContent = 'Read Less'; // Change link text to 'Read Less'
-    } else {
-        moreContent.style.display = 'none'; // Hide the content
-        link.textContent = 'Read More'; // Change link text to 'Read More'
-    }
+  // Check if the content is hidden or visible
+  if (moreContent.style.display === 'none' || moreContent.style.display === '') {
+      moreContent.style.display = 'inline'; // Show the content
+      link.textContent = 'Read Less'; // Change link text to 'Read Less'
+  } else {
+      moreContent.style.display = 'none'; // Hide the content
+      link.textContent = 'Read More'; // Change link text to 'Read More'
+  }
 }
