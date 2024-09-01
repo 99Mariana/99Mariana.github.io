@@ -180,9 +180,9 @@ function toggleReadMore(link) {
   // Check if the content is hidden or visible
   if (moreContent.style.display === 'none' || moreContent.style.display === '') {
       moreContent.style.display = 'inline'; // Show the content
-      link.textContent = 'Read Less'; // Change link text to 'Read Less'
+      link.textContent = 'Read Less <<'; // Change link text to 'Read Less'
   } else {
       moreContent.style.display = 'none'; // Hide the content
-      link.textContent = 'Read More'; // Change link text to 'Read More'
+      link.textContent = 'Read More >>'; // Change link text to 'Read More'
   }
 }
