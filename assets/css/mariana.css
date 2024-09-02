@@ -127,6 +127,7 @@ blockquote {
   font-style: italic;
   margin: 0 0 1rem; }
 
+
 b, strong {
   font-weight: bolder;}
 
@@ -329,7 +330,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1.5rem;
+  font-size: calc(18px + (30 - 18) * ((100vw - 300px) / (1600 - 300)));
 }
 
 h5, .h5 {
@@ -11391,6 +11392,7 @@ p, ul {
   margin-top: 20px;
   color: #1ac7c1;
   cursor: pointer;
+  font-size: calc(12px + (16 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .read-more:hover {
