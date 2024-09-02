@@ -11706,6 +11706,10 @@ pre .code {
   border-bottom: 0px solid #dee2e6;
 }
 
+.noborder h4 {
+  margin-top: 5px;
+}
+
 .section.bg-custom-gray {
   background: rgba(242, 244, 247, 0.15);
 }
